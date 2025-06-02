@@ -1,0 +1,296 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+html{
+font-size: 62.5%;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:weight;
+  font-style: normal;
+
+}
+
+body{
+background-color:var(--black);
+
+}
+@font-face {
+font-family: futurak;
+src: url(futurak.ttf );
+
+
+
+}
+
+
+
+:root{
+--white:#ffffff;    
+--black: #000000;
+--red: #eb3238 ;
+--light-gray:#e0e0e0;
+
+}
+
+
+.parent{
+margin-top: 6px;
+display: flex;
+justify-content: space-around;
+align-items:center;
+
+flex-wrap: wrap;
+
+}
+
+
+
+
+.logo-image{
+width: 165px;
+margin-top: 3px;
+
+
+
+
+}
+
+.navbar-items{
+display: flex;
+flex-wrap: wrap;
+gap: 16px;
+
+}
+
+
+.nav-item{
+margin-top: 30px;
+text-decoration: none;
+font-size: 1.7rem;
+color: var(--white);
+flex-wrap: wrap;
+}
+
+
+
+
+
+
+.website-btn1{
+font-size: 1.4rem;
+padding: 14px;
+margin-left: 11px;
+border: 1px solid white;
+background-color: black;
+color: aliceblue;
+border-radius: 30px;
+
+}
+.website-btn2{
+font-size: 1.4rem;
+padding: 14px;
+border:none;
+background-color:#ff0000;
+color: aliceblue;
+border-radius: 30px;
+
+
+}
+
+.icon-span{
+background-color: var(--white);
+padding: 5px 6px;
+border-radius: 24px;
+color: var(--red);
+}
+
+
+
+
+.carousel-image{
+width: 100%;
+flex-wrap: wrap;
+
+
+
+}
+
+.our-website-heading{
+color: var(--white);
+text-align: center;
+margin-top: 50px;
+font-size: 4rem;
+
+
+}
+.font-heading{
+font-family:futurak;
+font-size: 5.2rem;
+
+
+}
+
+
+.our-website-para{
+color:var(--light-gray);
+text-align: center;
+font-size: 1.5rem;
+
+
+}
+
+
+.website-childrens{
+display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+margin-top: 40px;
+margin-left: 189px;
+gap:0px;
+
+}
+
+.child{
+   display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.children-image{
+width:280px;
+padding: 20px;
+background-color: var(--white);
+border-radius: 5px;
+margin: -80px;
+
+   
+}
+
+.children-image4{
+width: 250px;
+height: 300px;
+padding:20px;
+    background-color: var(--white);
+    border-radius: 5px;
+    height: 140px;
+    margin: -80px;
+}
+
+
+
+
+
+
+.btn{
+margin-top: 30px;
+border:2px solid var(--white);
+background-color: var(--black);
+color: var(--white);
+font-size: 1.7rem;
+padding: 17px ;
+padding-left: 50px;
+padding-right: 50px;
+border-radius: 50px;
+position: relative;
+top: 110px;
+right: 130px;
+
+}
+.btn3{
+margin-top: 30px;
+border:2px solid var(--white);
+background-color: var(--black);
+color: var(--white);
+font-size: 1.7rem;
+padding: 17px ;
+padding-left: 30px;
+padding-right: 30px;
+border-radius: 50px;
+position: relative;
+top: 110px;
+right: 159px;
+
+
+
+
+
+
+
+}
+
+
+.btn2{
+margin-top: 30px;
+border:2px solid var(--white);
+background-color: var(--black);
+color: var(--white);
+font-size: 1.7rem;
+padding: 17px ;
+padding-left: 50px;
+padding-right: 50px;
+border-radius: 50px;
+position: relative;
+top: 110px;
+right: 160px;
+
+
+
+
+
+}
+
+.our-website-branches{
+
+
+
+
+}
+
+.our-website-heading2{
+color: var(--white);
+text-align: center;
+margin-top: 200px;
+font-size: 4rem;
+}
+
+
+
+
+
+
+.font-heading2{
+font-family:futurak;
+font-size: 5.2rem;
+
+
+
+
+
+}
+
+
+
+
+.our-website-para2{
+color:var(--light-gray);
+text-align: center;
+font-size: 1.5rem;
+
+
+
+
+
+
+}
