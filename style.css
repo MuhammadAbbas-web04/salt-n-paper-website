@@ -20,6 +20,7 @@ font-size: 62.5%;
 
 body{
 background-color:var(--black);
+color: var(--white);
 
 }
 @font-face {
@@ -640,4 +641,98 @@ border-radius: 50px;
 
 
 }
+.express-heading{
+  font-size: 4rem;
+  font-weight: 400;
+  text-align: center;
+  position: relative;
+  right: 100px;
+  top: 80px;
+}
+.parrent1{
 
+position: relative;
+top: 200px;
+right: 120px;
+display: flex;
+justify-content: center;
+
+}
+.box1-heading{
+  font-size: 2rem;
+  font-weight: 500;
+  position: relative;
+  top: 20px;
+}
+.font-heading6{
+  font-size: 2.2rem;
+  
+}
+.area1{
+  font-size: 1.5rem;
+  color: var(--red);
+  position: relative;
+  right: 340px;
+  top: 20px;
+}
+.location{
+font-size: 1.5rem;
+color: var(--light-gray);
+position: relative;
+top: 30px;
+}
+.content-num{
+font-size: 1.5rem;
+color: var(--light-gray);
+position: relative;
+top: 40px;
+left: 80px;
+}
+.box1-btn{
+  font-size: 1.4rem;
+padding: 14px;
+
+background-color: var(--black);
+border-color: var(--white);
+color: aliceblue;
+border-radius: 30px;
+position: relative;
+top: 70px;
+left: 70px;
+}
+.box2-btn{
+ font-size: 1.4rem;
+padding: 14px;
+
+background-color: var(--black);
+border-color: var(--white);
+color: aliceblue;
+border-radius: 30px;
+position: relative;
+top: 50px;
+right: 150px;
+}
+.box3-btn{
+ font-size: 1.4rem;
+padding: 14px;
+
+background-color: var(--black);
+border-color: var(--white);
+color: aliceblue;
+border-radius: 30px;
+position: relative;
+top: 50px;
+right: 150px;
+}
+.parrent2{
+  display: flex;
+  position: relative;
+  top: 350px;
+ left: 170px;
+}
+.parrent3{
+  display: flex;
+  position: relative;
+  top: 500px;
+  left: 170px;
+}
