@@ -736,3 +736,16 @@ right: 150px;
   top: 500px;
   left: 170px;
 }
+.parrent3-img{
+  width: 356px;
+}
+.parrent3-image{
+  max-width: 306px;
+}
+.area3{
+  font-size: 1.5rem;
+  color: var(--red);
+  position: relative;
+  right: 300px;
+  top: 20px;
+}
