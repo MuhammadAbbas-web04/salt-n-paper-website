@@ -245,24 +245,21 @@ position: relative;
 top: 110px;
 right: 160px;
 
-
-
-
-
 }
 
-.our-website-branches{
 
 
 
 
-}
+
+
 
 .our-website-heading2{
 color: var(--white);
 text-align: center;
 margin-top: 200px;
 font-size: 4rem;
+bottom: -50px auto;
 }
 
 
@@ -283,6 +280,10 @@ font-size: 5.2rem;
 
 
 
+
+
+
+
 .our-website-para2{
 color:var(--light-gray);
 text-align: center;
@@ -294,3 +295,349 @@ font-size: 1.5rem;
 
 
 }
+
+
+
+
+
+.branches-container{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: center;
+gap: 100px;
+
+}
+
+.item-location{
+margin-top:-50px;
+
+
+
+}
+
+
+
+.item-image{
+align-self:flex-end;
+width: 300px;
+position: relative;
+right: 100px;
+border-radius: 10px;
+
+
+}
+
+.website-btn5{
+margin-top: 30px;
+border:2px solid var(--white);
+background-color: var(--black);
+color: var(--white);
+font-size: 1.7rem;
+padding: 15px ;
+padding-left: 30px;
+padding-right: 30px;
+border-radius: 50px;
+position: relative;
+bottom: 60px;
+right: 220px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.our-website-heading3{
+color: var(--white);
+margin-top: 200px;
+font-size: 4rem;
+
+
+
+
+}
+
+.font-heading3{
+font-family:futurak;
+font-size: 3.7rem;
+  position: relative;
+bottom: 40px;
+right: 200px;
+
+
+
+}
+
+.branch-location1{
+color: var(--red);
+font-weight: 100;
+font-size: 2.5rem;
+  position: relative;
+bottom: 60px;
+right: 200px;
+
+
+
+}
+
+
+
+
+
+
+
+.Restaurant{
+color: var(--white);
+font-size: 3rem;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:weight;
+  font-style: normal;
+
+
+}
+
+
+
+.our-website-para3{
+color:var(--light-gray);
+font-size: 1.5rem;
+  position: relative;
+bottom: 60px;
+right: 200px;
+
+
+
+
+}
+.para4{
+color:var(--light-gray);
+font-size: 1.5rem;
+  position: relative;
+bottom: 70px;
+right: 200px;
+
+}
+
+
+
+.our-website-image1{
+  width: 600px;
+margin-top: 30px;
+position: relative;
+left: 150px;
+
+
+}
+
+
+
+
+
+.item-location3{
+position: relative;
+left: 1000px;
+bottom: 510px;
+
+}
+
+
+
+
+
+
+.our-website-heading6{
+color: var(--white);
+margin-top: 200px;
+font-size: 4rem;
+
+
+
+
+}
+
+.font-heading6{
+font-family:futurak;
+font-size: 3.7rem;
+
+
+
+
+}
+
+.Restaurant2{
+color: var(--white);
+font-size: 3rem;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:weight;
+  font-style: normal;
+
+
+}
+
+.para6{
+color:var(--light-gray);
+font-size: 1.5rem;
+
+
+
+
+}
+
+
+.our-website-para6{
+color:var(--light-gray);
+font-size: 1.5rem;
+
+
+
+
+}
+
+.branch-location6{
+color: var(--red);
+font-weight: 100;
+font-size: 2.5rem;
+
+
+
+
+}
+
+.website-btn6{
+margin-top: 30px;
+border:2px solid var(--white);
+background-color: var(--black);
+color: var(--white);
+font-size: 1.7rem;
+padding: 15px ;
+padding-left: 30px;
+padding-right: 30px;
+border-radius: 50px;
+
+
+
+}
+
+
+.adjust-box3{
+position: relative;
+bottom: 500px;
+left: 130px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.our-website-heading9{
+color: var(--white);
+margin-top: 200px;
+font-size: 4rem;
+
+
+
+
+}
+
+
+
+
+.font-heading9{
+font-family:futurak;
+font-size: 3.7rem;
+
+
+
+
+}
+
+
+
+
+.Restaurant9{
+color: var(--white);
+font-size: 3rem;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:weight;
+  font-style: normal;
+
+
+}
+
+
+
+
+.para9{
+color:var(--light-gray);
+font-size: 1.5rem;
+
+
+
+
+}
+
+
+
+
+
+.our-website-para9{
+color:var(--light-gray);
+font-size: 1.5rem;
+
+
+
+
+}
+
+
+
+
+
+
+.branch-location9{
+color: var(--red);
+font-weight: 100;
+font-size: 2.5rem;
+
+
+
+
+}
+
+
+
+.website-btn9{
+margin-top: 30px;
+border:2px solid var(--white);
+background-color: var(--black);
+color: var(--white);
+font-size: 1.7rem;
+padding: 15px ;
+padding-left: 30px;
+padding-right: 30px;
+border-radius: 50px;
+
+
+
+}
+
