@@ -13,7 +13,7 @@ html{
 font-size: 62.5%;
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
-  font-weight:weight;
+  font-weight:400;
   font-style: normal;
 
 }
@@ -38,6 +38,7 @@ src: url(futurak.ttf );
 --black: #000000;
 --red: #eb3238 ;
 --light-gray:#e0e0e0;
+--green:#28a745 ;
 
 }
 
@@ -47,7 +48,6 @@ margin-top: 6px;
 display: flex;
 justify-content: space-around;
 align-items:center;
-
 flex-wrap: wrap;
 
 }
@@ -118,6 +118,7 @@ color: var(--red);
 
 .carousel-image{
 width: 100%;
+display: flex;
 flex-wrap: wrap;
 
 
@@ -194,7 +195,7 @@ padding:20px;
 
 
 
-.btn{
+.btn4{
 margin-top: 30px;
 border:2px solid var(--white);
 background-color: var(--black);
@@ -279,6 +280,23 @@ font-size: 5.2rem;
 }
 
 
+.website-btn5{
+margin-top: 30px;
+border:2px solid var(--white);
+background-color: var(--black);
+color: var(--white);
+font-size: 1.7rem;
+padding: 15px ;
+padding-left: 30px;
+padding-right: 30px;
+border-radius: 50px;
+position: relative;
+right: 210px;
+bottom: 40px;
+
+}
+
+
 
 
 
@@ -329,7 +347,7 @@ border-radius: 10px;
 
 }
 
-.website-btn5{
+.area-btn{
 margin-top: 30px;
 border:2px solid var(--white);
 background-color: var(--black);
@@ -340,30 +358,15 @@ padding-left: 30px;
 padding-right: 30px;
 border-radius: 50px;
 position: relative;
-bottom: 60px;
-right: 220px;
-
-
+right: 210px;
+bottom: 40px;
 }
-
-
-
-
-
-
-
-
-
-
 
 
 .our-website-heading3{
 color: var(--white);
 margin-top: 200px;
 font-size: 4rem;
-
-
-
 
 }
 
@@ -373,8 +376,6 @@ font-size: 3.7rem;
   position: relative;
 bottom: 40px;
 right: 200px;
-
-
 
 }
 
@@ -387,24 +388,15 @@ bottom: 60px;
 right: 200px;
 
 
-
 }
-
-
-
-
-
-
 
 .Restaurant{
 color: var(--white);
 font-size: 3rem;
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
-  font-weight:weight;
+  font-weight:400;
   font-style: normal;
-
-
 }
 
 
@@ -415,9 +407,6 @@ font-size: 1.5rem;
   position: relative;
 bottom: 60px;
 right: 200px;
-
-
-
 
 }
 .para4{
@@ -470,9 +459,6 @@ font-size: 4rem;
 font-family:futurak;
 font-size: 3.7rem;
 
-
-
-
 }
 
 .Restaurant2{
@@ -480,7 +466,7 @@ color: var(--white);
 font-size: 3rem;
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
-  font-weight:weight;
+  font-weight:400;
   font-style: normal;
 
 
@@ -515,7 +501,7 @@ font-size: 2.5rem;
 
 }
 
-.website-btn6{
+.area-btn06{
 margin-top: 30px;
 border:2px solid var(--white);
 background-color: var(--black);
@@ -579,7 +565,7 @@ color: var(--white);
 font-size: 3rem;
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
-  font-weight:weight;
+  font-weight:400;
   font-style: normal;
 
 
@@ -656,6 +642,7 @@ top: 200px;
 right: 120px;
 display: flex;
 justify-content: center;
+flex-wrap: wrap;
 
 }
 .box1-heading{
@@ -729,12 +716,14 @@ right: 150px;
   position: relative;
   top: 350px;
  left: 170px;
+ flex-wrap: wrap;
 }
 .parrent3{
   display: flex;
   position: relative;
   top: 500px;
   left: 170px;
+  flex-wrap: wrap;
 }
 .parrent3-img{
   width: 356px;
@@ -749,3 +738,375 @@ right: 150px;
   right: 300px;
   top: 20px;
 }
+
+
+
+.Village-Franchise-location{
+color: var(--red);
+
+
+
+}
+
+
+
+.font-heading09{
+font-family:futurak;
+font-size: 5.7rem;
+position: relative;
+left: 700px;
+top: 230px;
+
+}
+
+.heading2{
+font-size: 3.3rem;
+position: relative;
+top: 188px;
+left: 1030px;
+bottom: 50px;
+
+}
+
+
+
+
+
+
+.container-Village-Franchise{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+
+}
+
+.img{
+ width: 120%;
+position: relative;
+top: 290px;
+right: 620px;
+
+
+
+}
+
+.Village-Franchise-location{
+position: relative;
+left: 200px;
+bottom: 100px;
+left: 250px;
+
+
+}
+
+.Village-Franchise-para{
+position: relative;
+left: 250px;
+bottom: 100px;
+
+} 
+
+
+
+
+
+.location5{
+position: relative;
+bottom: 100px;
+left: 250px;
+
+
+}
+
+
+
+
+
+
+
+
+
+.btn{
+border:1px solid var(--green);
+background-color: var(--green);
+color: var(--white);
+font-size: 1.7rem;
+padding: 17px;
+padding-left: 30px;
+padding-right: 30px;
+border-radius: 50px;
+position: relative;
+top: 30px;
+right: 18px;
+}
+
+.button-child{
+position: relative;
+bottom: 90px;
+left: 85px;
+
+
+}
+
+.btn:hover{
+background-color:#000000;
+
+
+
+
+}
+
+.font-heading6{
+font-size: 3rem;
+
+
+
+}
+
+
+.Village-Franchise-contect-num{
+position: relative;
+left: 250px;
+bottom: 100px;
+font-size: 1.3rem;
+color: var(--light-gray);
+
+
+
+}
+
+
+
+
+.heading2{
+font-size: 3rem;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: var(--white);
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Cards Container */
+  .new-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 50px;
+  }
+
+  /* Single Card */
+  .card-box {
+    background-color: var(--white);
+    color: var(--black);
+    padding: 20px;
+    width: 250px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .card-box img {
+    width: 60px;
+    margin: 0 auto;
+  }
+
+  .card-box h6 {
+    color: var(--red);
+    letter-spacing: 4px;
+    font-weight: 300;
+    margin: 0;
+  }
+
+  .card-box h3 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0;
+  }
+
+  .card-box h3 span {
+    font-weight: 900;
+  }
+
+  .card-box p {
+    margin: 0;
+    font-weight: 400;
+    font-size: 1rem;
+  }
+
+  /* Social Feed Section */
+  .social-feed {
+    margin-bottom: 80px;
+    text-align: center;
+  }
+
+  .social-feed h1 {
+    font-size: 3rem;
+    margin-bottom: 30px;
+  }
+
+  .socail-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  .socail-section img {
+    width: 240px;
+    height: 240px;
+    object-fit: cover;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+  }
+
+  /* Footer */
+  footer {
+    background-color: #272626;
+    color: var(--light-gray);
+    padding: 40px 20px;
+  }
+
+  .fotter-section {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: space-between;
+  }
+
+  .policy-section, .site-links, .contact-us-sec, .socail-icons, .download-plateform {
+    flex: 1 1 250px;
+    min-width: 250px;
+  }
+
+  .policy-section img {
+    width: 100px;
+    margin-bottom: 15px;
+  }
+
+  .footer-contents, .terms {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+
+  .site-links ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .site-links li {
+    margin-bottom: 10px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+
+  .site-links li:hover {
+    color: var(--red);
+  }
+
+  .contact-us-sec h1,
+  .socail-icons h1 {
+    font-size: 1.3rem;
+    margin-bottom: 15px;
+    color: var(--white);
+  }
+
+  .contact-us-sec p {
+    margin-bottom: 10px;
+    font-size: 1rem;
+  }
+
+  .socail-icons img {
+    width: 40px;
+    margin-right: 15px;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+
+  .download-plateform img {
+    width: 150px;
+    margin-right: 15px;
+    cursor: pointer;
+  }
+
+  .copyright-section {
+    text-align: center;
+    color: var(--white);
+    margin-top: 40px;
+    font-size: 1rem;
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .new-cards, .socail-section {
+      gap: 15px;
+    }
+
+    .card-box {
+      width: 100%;
+      max-width: 300px;
+    }
+
+    .fotter-section {
+      flex-direction: column;
+      gap: 30px;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
