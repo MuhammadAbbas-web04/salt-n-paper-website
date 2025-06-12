@@ -1565,14 +1565,15 @@ top: 60px;
 .snp-main{
 display: flex;
 justify-content: space-between;
-margin-left: 40px;
+
 }
 
 .spn-2025{
-font-size: 2rem;
+font-size: 1.7rem;
 color:var(--light-gray);
-
-
+position: relative;
+left: 290px;
+bottom: 10px;
 }
 
 .spn-2025{
@@ -1593,6 +1594,9 @@ color: var(--light-gray);
 font-family: "Inter", sans-serif;
 font-size: 1.3rem;
 font-weight: 400;
+position: relative;
+right: 400px;
+top: 3px;
 }
 
 
