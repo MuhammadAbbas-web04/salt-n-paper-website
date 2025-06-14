@@ -715,6 +715,92 @@ font-weight: 400;
 
 .item6-para{
 font-size: 1.5rem;
+position: relative;
+top: 10px;
+
+}
+
+
+
+
+/* container-branch6 */
+
+
+/* section for locations */
+ .express-spn{
+font-family:futurak;
+font-size: 3.7rem;
+text-align: center;
+position: relative;
+left: 800px;
+
+
+
+
+ }
+
+
+
+.express-heading1{
+font-size: 2.7rem;
+letter-spacing: 2px;
+font-family: "Inter", sans-serif;
+position: relative;
+left: 460px;
+}
+
+
+
+
+.parrent1{
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 40px;
+margin-top: 50px;
+height: 56vh;
+
+}
+
+.box1-btn{
+border-radius: 30px;
+padding: 15px;
+background-color: var(--black);
+color: var(--white);
+border: 1px solid var(--white);
+position: relative;
+top: 53px;
+}
+
+
+
+
+.box2-btn{
+border-radius: 30px;
+padding: 15px;
+background-color: var(--black);
+color: var(--white);
+border: 1px solid var(--white);
+position: relative;
+top: 66px;
+right: 110px;
+}
+
+.box3-btn{
+border-radius: 30px;
+padding: 15px;
+background-color: var(--black);
+color: var(--white);
+border: 1px solid var(--white);
+position: relative;
+top: 60px;
+right: 110px;
+}
+
+
+.font-heading6{
+font-family:futurak;
+font-size: 2.7rem;
 
 
 
@@ -722,52 +808,98 @@ font-size: 1.5rem;
 }
 
 
-/* container-branch5 */
 
+.box1-heading{
+font-size: 2.7rem;
+letter-spacing: 2px;
+font-family: "Inter", sans-serif;
+position: relative;
+top: 20px;
 
 
 
+}
 
 
+.area1{
+color: var(--red);
+position: relative;
+top: 20px;
+right: 250px;
+font-size:1.3rem;
 
+}
 
 
 
+.location1{
+font-size: 1.7rem;
+position: relative;
+top: 18px;
 
 
 
+}
 
 
 
+.content-num1{
+font-size: 1.7rem;
+position: relative;
+top: 16px;
 
+}
 
 
 
 
+.location2{
+font-size: 1.7rem;
+position: relative;
+top: 16px;
 
 
 
+}
 
 
 
+.content-num2{
+font-size: 1.7rem;
+position: relative;
+top: 1px;
 
+}
 
+.location3{
+font-size: 1.7rem;
+position: relative;
+top: 16px;
 
 
 
+}
 
 
 
+.content-num3{
+font-size: 1.7rem;
+position: relative;
+top: 1px;
 
+}
 
 
 
 
 
+.box3-img{
+width: 400px;
 
 
 
 
+}
 
 
 
@@ -776,11 +908,30 @@ font-size: 1.5rem;
 
 
 
+.box4-btn{
+border-radius: 30px;
+padding: 15px;
+background-color: var(--black);
+color: var(--white);
+border: 1px solid var(--white);
+position: relative;
+top: 48px;
+right: 110px;
 
 
 
+}
 
 
+.box5-btn{
+border-radius: 30px;
+padding: 15px;
+background-color: var(--black);
+color: var(--white);
+border: 1px solid var(--white);
+position: relative;
+top: 48px;
+right: 110px;
 
 
 
@@ -789,6 +940,7 @@ font-size: 1.5rem;
 
 
 
+}
 
 
 
@@ -797,28 +949,147 @@ font-size: 1.5rem;
 
 
 
+.box2-img{
+width: 400px;
 
 
 
 
 
 
+}
 
+.box1-img{
+width: 400px;
 
 
 
 
 
+}
 
+/* section for locations */
 
 
 
+/*  section for village*/
 
+.express-heading2{
+font-size: 2.7rem;
+letter-spacing: 2px;
+font-family: "Inter", sans-serif;
+position: relative;
+left: 770px;
 
+}
 
+.express-spn3{
+font-family:futurak;
+font-size: 3.7rem;
+text-align: center;
+position: relative;
+left: 800px;
 
+}
 
+.location11{
+font-size: 1.7rem;
 
+
+
+
+
+
+}
+.content-num9{
+font-size: 1.7rem;
+
+
+
+
+
+}
+
+.spn-GUJRANWALA{
+color: var(--red);
+font-size: 1.6rem;
+
+
+
+}
+
+
+
+.Franchise-container{
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 30px;
+margin-top: 50px;
+
+}
+
+.Village-img{
+width: 600px;
+
+
+
+}
+
+.express-spn6{
+font-family:futurak;
+font-size: 2.6rem;
+
+
+
+}
+.express-heading7{
+font-size: 2rem;
+font-weight: 400;
+position: relative;
+top: 10px;
+
+}
+
+
+.Ph{
+color: var(--light-gray);
+text-decoration: none;
+}
+
+
+.location11{
+position: relative;
+top: 45px;
+
+
+
+
+
+}
+
+
+.content-num9{
+position: relative;
+top: 60px;
+
+
+
+}
+
+
+
+
+.section-for-Village6{
+align-self: flex-start;
+
+
+
+}
+
+
+
+/*  section for village*/
 
 
 
@@ -881,7 +1152,6 @@ align-items: center;
 flex-wrap: wrap;
 width: 100%;
 height: 80vh;
-
 position: relative;
 left: 20px;
 gap: 50px;
@@ -1137,6 +1407,14 @@ position: relative;
 right: 400px;
 top: 3px;
 }
+
+
+
+
+
+
+
+
 
 
 
