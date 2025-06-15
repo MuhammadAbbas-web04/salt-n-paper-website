@@ -123,11 +123,6 @@ color: var(--red);
 
 
 
-
-
-
-
-
 .FeedBack{
 margin-top: 10px;
 
@@ -141,7 +136,7 @@ margin-top: 10px;
 
 
 .feedback-headings{
-width: 500px;
+width: 550px;
 position: relative;
 bottom: 600px;
 left: 765px;
@@ -160,8 +155,8 @@ left: 90px;
 
 .FeedBack-heading{
 font-size: 10rem;
-
-
+position: relative;
+right: 45px;
 
 }
 .FeedBack-para{
@@ -175,112 +170,66 @@ top: 7px;
 
 
 
-
-.feedback-para2{
-text-align: center;
-font-size: 1.7rem;
-position: relative;
-bottom: 100px;
-
-}
-
 .feedback-para3{
 text-align: center;
 font-size: 1.7rem;
+position: relative;
+bottom: 50px;
+
+
+}
+
+
+.heading-for-contactus{
+position: relative;
+left: 800px;
+font-size: 2.6rem;
+bottom: 70px;
 
 
 
 }
 
 
-.container-for-feedback{
+
+
+.container-for-contactus{
+
 display: flex;
+flex-direction: row;
 justify-content: center;
 align-items: center;
+flex-wrap: wrap;
+/* height: 30vh; */
+}
+
+.map{
+width: 600px;
+
+}
+
+.contact-us-links{
+color: var(--light-gray);
+font-size: 1.2rem;
+
+}
+
+.contact-us-links,a{
+text-decoration: none;
+
+}
+
+.links{
 position: relative;
-bottom: 100px;
-right: 100px;
+left: 220px;
+
+
+
 }
 
-.personal-details{
-width: 700px;
+.li{
 position: relative;
-left: 110px;
-/* height: 100vh; */
-top: 20px;
-
-
-}
-
-
-
-.important{
-width: 210px;
-padding: 10px;
-
-
-
-
-}
-
-.name{
-width: 337px;
-padding: 9px;
-
-
-
-
-}
-
-
-
-.Select-Branch{
-width: 675px;
-padding: 10px;
-
-
-
-
-}
-
-.feedback-para4{
-font-size: 1.8rem;
-
-
-
-
-}
-
-.Feed-back-btn{
-background-color: var(--Orange);
-border-radius: 50px;
-padding: 15px;
-padding-left: 30px;
-padding-right: 30px;
-border: none;
-font-family: 'Times New Roman', Times, serif;
-}
-
-.Feed-back-btn:hover{
-background-color: var(--light-orange);
-color: var(--black);
-font-family: 'Times New Roman', Times, serif;
-
-}
-
-
-
-.media{
-font-size: 1.3rem;
-
-
-
-}
-
-
-.yes{
-
-font-size: 1.3rem;
+right: 88px;
 
 
 
@@ -289,13 +238,53 @@ font-size: 1.3rem;
 
 
 
-.text{
+
+iframe{
 position: relative;
-bottom: 30px;
-left: 13px;
-font-size: 1.3rem;
+right: 130px;
+
+
 
 }
+
+
+
+
+
+
+
+
+.links-heading{
+position: relative;
+right: 240px;
+
+
+
+}
+
+.link {
+position: relative;
+right: 230px;
+color: var(--light-gray);
+
+
+
+}
+
+
+.heading-for-map{
+position: relative;
+left: 240px;
+bottom: 20px;
+font-size: 2.6rem;
+
+
+}
+
+
+
+
+
 
 
 
@@ -573,39 +562,6 @@ position: relative;
 right: 400px;
 top: 3px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
