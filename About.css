@@ -762,28 +762,29 @@ height: 56vh;
 
 }
 
-.box1-btn{
+.box001-btn{
 border-radius: 30px;
 padding: 15px;
 background-color: var(--black);
 color: var(--white);
 border: 1px solid var(--white);
 position: relative;
-top: 53px;
+right: 10px;
+top: 40px;
 }
 
 
 
 
-.box2-btn{
+.box02-btn{
 border-radius: 30px;
 padding: 15px;
 background-color: var(--black);
 color: var(--white);
 border: 1px solid var(--white);
 position: relative;
-top: 66px;
-right: 110px;
+top: 50px;
+right: 170px;
 }
 
 .box3-btn{
@@ -794,8 +795,105 @@ color: var(--white);
 border: 1px solid var(--white);
 position: relative;
 top: 60px;
-right: 110px;
+right: 240px;
 }
+
+
+.box04-btn{
+border-radius: 30px;
+padding: 15px;
+background-color: var(--black);
+color: var(--white);
+border: 1px solid var(--white);
+position: relative;
+top: 15px;
+left: 10px;
+bottom: 100px;
+}
+
+
+
+.box3-btn{
+border-radius: 30px;
+padding: 15px;
+background-color: var(--black);
+color: var(--white);
+border: 1px solid var(--white);
+position: relative;
+top: 46px;
+right: 167px;
+}
+
+
+.box0e-btn{
+border-radius: 30px;
+padding: 15px;
+background-color: var(--black);
+color: var(--white);
+border: 1px solid var(--white);
+position: relative;
+top: 40px;
+right: 160px;
+
+
+
+
+
+}
+
+
+.box1-btn{
+border-radius: 30px;
+padding: 15px;
+background-color: var(--black);
+color: var(--white);
+border: 1px solid var(--white);
+position: relative;
+top: 40px;
+right: 10px;
+
+
+
+
+
+}
+
+.box05-btn{
+border-radius: 30px;
+padding: 15px;
+background-color: var(--black);
+color: var(--white);
+border: 1px solid var(--white);
+position: relative;
+top: 40px;
+right: 190px;
+
+
+
+
+
+}
+
+
+.box3-img{
+height: 270px;
+
+
+
+
+}
+.box0r-img{
+height: 260px;
+
+
+
+}
+
+
+
+
+
+
 
 
 .font-heading6{
